@@ -6,3 +6,5 @@ python train.py modelfile.name
 python test.py modefile.name
 
 The outputs will be in a generated folder.
+
+![Alt text](assets/path/to/img.jpg?raw=true "Title")
