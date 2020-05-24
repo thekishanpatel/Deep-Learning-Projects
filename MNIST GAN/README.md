@@ -7,4 +7,4 @@ python test.py modefile.name
 
 The outputs will be in a generated folder.
 
-![Alt text](assets/path/to/img.jpg?raw=true "Title")
+![Alt text](assets/500epc_generated_plot_e040.png?raw=true "Image 1")
